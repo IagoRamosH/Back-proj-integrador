@@ -7,9 +7,14 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.19.2",
     "save": "^2.9.0"
+  },
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "@types/cors": "^2.8.17"
   }
 }
